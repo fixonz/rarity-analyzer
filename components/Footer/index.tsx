@@ -10,7 +10,7 @@ const Header = () => {
 					<div>
 						Made by the{" "}
 						<a href="https://owhantonnt.xyz/" target="_blank" rel="noreferrer">
-							Marv's Dev.. fix
+							Marv s Dev.. fix
 						</a>
 					</div>
 					
